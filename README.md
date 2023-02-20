@@ -1,2 +1,2 @@
 # Gerador-de-Senhas
-Site gerador de senhas automáticos 
+Site gerador de senhas automáticas
